@@ -28,8 +28,8 @@
 │   ├── 3. 온라인 교육 서비스 사용자 이탈 분석 보고서.pdf
 │   └── 4. 온라인 교육 서비스 사용자 이탈 핵심 보고서_요약본.pdf
 ├── notebooks/
-│   ├── 01_funnel_analysis.ipynb   # AARRR 퍼널 분석 (SQL 세부 분석 포함)
-│   └── 02_churn_behavior.ipynb    # 이탈 시점별 행동 분석
+│   ├── 01_aarrr_analysis.ipynb            # AARRR 퍼널 분석 (SQL 세부 분석 포함)
+│   └── 02_churn_behavior_analysis.ipynb   # 이탈 시점별 행동 분석
 ├── output/
     └── churn_dashboard.png
 ```
